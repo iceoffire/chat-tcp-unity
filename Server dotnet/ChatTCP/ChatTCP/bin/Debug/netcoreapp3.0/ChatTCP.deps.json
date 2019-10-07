@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ChatTCP/1.0.0": {
+        "dependencies": {
+          "NetCoreServer": "1.4.0"
+        },
+        "runtime": {
+          "ChatTCP.dll": {}
+        }
+      },
+      "NetCoreServer/1.4.0": {
+        "runtime": {
+          "lib/netstandard2.0/NetCoreServer.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChatTCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetCoreServer/1.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CQCSA0RmCfvdL2G7OdD1HWeRqL7bJz4Rte4bDi6YlDZDbeI6AVrGgrV61q0RwSjbG0dI8AeEK4REfIcFMaNrvA==",
+      "path": "netcoreserver/1.4.0",
+      "hashPath": "netcoreserver.1.4.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\iceoffire\source\repos\ChatTCP\ChatTCP\bin\Debug\netcoreapp3.0\ChatTCP.exe
+C:\Users\iceoffire\source\repos\ChatTCP\ChatTCP\obj\Debug\netcoreapp3.0\ChatTCP.csprojAssemblyReference.cache
+C:\Users\iceoffire\source\repos\ChatTCP\ChatTCP\obj\Debug\netcoreapp3.0\ChatTCP.AssemblyInfoInputs.cache
+C:\Users\iceoffire\source\repos\ChatTCP\ChatTCP\obj\Debug\netcoreapp3.0\ChatTCP.AssemblyInfo.cs
+C:\Users\iceoffire\source\repos\ChatTCP\ChatTCP\bin\Debug\netcoreapp3.0\ChatTCP.deps.json
+C:\Users\iceoffire\source\repos\ChatTCP\ChatTCP\bin\Debug\netcoreapp3.0\ChatTCP.runtimeconfig.json
+C:\Users\iceoffire\source\repos\ChatTCP\ChatTCP\bin\Debug\netcoreapp3.0\ChatTCP.runtimeconfig.dev.json
+C:\Users\iceoffire\source\repos\ChatTCP\ChatTCP\bin\Debug\netcoreapp3.0\ChatTCP.dll
+C:\Users\iceoffire\source\repos\ChatTCP\ChatTCP\bin\Debug\netcoreapp3.0\ChatTCP.pdb
+C:\Users\iceoffire\source\repos\ChatTCP\ChatTCP\bin\Debug\netcoreapp3.0\NetCoreServer.dll
+C:\Users\iceoffire\source\repos\ChatTCP\ChatTCP\obj\Debug\netcoreapp3.0\ChatTCP.csproj.CopyComplete
+C:\Users\iceoffire\source\repos\ChatTCP\ChatTCP\obj\Debug\netcoreapp3.0\ChatTCP.dll
+C:\Users\iceoffire\source\repos\ChatTCP\ChatTCP\obj\Debug\netcoreapp3.0\ChatTCP.pdb

@@ -1,7 +1,9 @@
 # Chat TCP Unity
 
 TCP Client-Server Model using .NET and Unity
+
 Project written based in the NetCoreServer Library
+
 NetCoreServer: https://github.com/chronoxor/NetCoreServer
 
 ## Unity (Client)

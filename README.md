@@ -6,6 +6,8 @@ Project written based in the NetCoreServer Library
 
 NetCoreServer: https://github.com/chronoxor/NetCoreServer
 
+There is this [tutorial](https://github.com/iceoffire/chat-tcp-unity/blob/master/tutorial.md) that show step by step on how to use this project
+
 ## Unity (Client)
 * **Dependency**: NetCoreServer.dll
 * **Difficulty**: Intermediate
